@@ -1,6 +1,6 @@
 # samcrit-assignment
 
-# Assignment:
+### Assignment:
 
 Build a note sharing application which will have the following features:
 
